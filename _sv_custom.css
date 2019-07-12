@@ -1,0 +1,218 @@
+@font-face {
+    font-family: "GT Alpina";
+    src: url('_assets/_fonts/GT-Alpina-Regular.otf') format('otf'),
+         url('_assets/_fonts/GT-Alpina-Regular.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Alpina Italic";
+    src: url('_assets/_fonts/GT-Alpina-Regular-Italic.otf') format('otf'),
+         url('_assets/_fonts/GT-Alpina-Regular-Italic.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GT America Regular';
+    src: url('_assets/_fonts/GT-America-Regular.woff2') format('woff2'),
+         url('_assets/_fonts/GT-America-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT America Mono Regular";
+    src: url('_assets/_fonts/GT-America-Mono-Regular.woff2') format('woff2'),
+         url('_assets/_fonts/GT-America-Mono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FreizeitTrial";
+    src: url('_assets/_fonts/FreizeitTrial-Light.otf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* variables */
+:root {
+  --bg-color: white;
+  --main-color: #7741AF;
+  --gray: #eaeaea;
+  --ff-primary: 'GT Alpina';
+  /* --ff-secondary: 'GT America Regular'; */
+  --ff-secondary: 'FreizeitTrial';
+}
+
+/* helpers */
+.text-primary {
+  font-family: var(--ff-primary);
+}
+
+.text-secondary {
+  font-family: var(--ff-secondary);
+}
+
+.text-reverse {
+  color: white;
+}
+
+.text-centered {
+  text-align: center;
+  display: block;
+}
+
+/* bindery controls updates */
+.📖-zoom-content {
+ background: black !important;
+}
+
+.📖-root {
+  padding-top: 60px !important;
+}
+
+.📖-controls {
+  background: black;
+}
+
+.📖-controls .📖-select, .📖-control {
+  color: white !important;
+}
+
+.📖-controls button {
+  background: white !important;
+  color: black !important;
+}
+
+/* styles */
+
+* {
+  font-weight: normal;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  font-family: var(--ff-primary);
+  color: var(--main-color);
+  font-size: 16pt;
+  line-height: 1.1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ff-secondary);
+  line-height: 1.1;
+}
+
+h1.cover {
+  font-size: 72pt;
+  text-align: center;
+  line-height: .9;
+  color: white;
+}
+
+h2 {
+  font-size: 48pt;
+}
+
+h3 {
+  font-size: 24pt;
+}
+
+p {
+  margin-bottom: 18pt;
+  /* margin-bottom: 0; */
+}
+
+p + p {
+  /* text-indent: 48pt; */
+  /* margin-bottom: 24pt; */
+}
+
+p + ol,
+p + ul {
+  /* margin-bottom: 0; */
+}
+
+p + h2 {
+  margin-top: 24pt;
+}
+
+code, pre {
+  font-family: 'GT America Mono Regular';
+  letter-spacing: -.035em;
+  font-size: 80%;
+  color: #712369;
+}
+
+a {
+  text-decoration: none;
+  border: 1px solid var(--main-color);
+  border-radius: 10px;
+  color: var(--main-color);
+  padding: 0 4px 1px 4px;
+}
+
+a:hover {
+  text-decoration: none;
+  background: var(--main-color);
+  color: white;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 18pt;
+}
+
+ul li, ol li {
+
+}
+
+ul li, ul .from-previous {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+ol li, ol .from-previous {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+a.button, .button, button {
+  border: 1px solid var(--main-color);
+  border-radius: 20px;
+  padding: 16pt 24pt;
+  margin: 16pt 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  background-color: white;
+}
+
+a.button:hover, .button:hover, button:hover {
+  text-decoration: none;
+  background: var(--main-color);
+  color: var(--bg-color);
+}
+
+hr {
+  height: 1px;
+  border: 0;
+  outline: none;
+  background: var(--main-color);
+  margin: 24pt 0;
+}
+
+a sup, sup {
+  text-decoration: none !important;
+  text-decoration-style: none !important;
+  text-decoration-color: white;
+}
+
+img {
+  margin: 16pt 0;
+}
