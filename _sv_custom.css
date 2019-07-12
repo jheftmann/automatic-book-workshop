@@ -74,8 +74,9 @@
   padding-top: 60px !important;
 }
 
-.📖-controls {
-  background: black;
+.📖-controls,
+.📖-view-print.📖-controls {
+  background: black !important;
 }
 
 .📖-controls .📖-select, .📖-control {

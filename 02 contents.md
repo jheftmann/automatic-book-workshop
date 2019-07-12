@@ -55,37 +55,35 @@ Finally, you’ll need to download the project template. I’ve gotten the basic
 
 <a href="_assets/template.zip" class="button">Download</a>
 
-<figure class="spread">
-  <img src="_assets/spread.jpg" alt="">
-</figure>
+<img class="spread" src="_assets/spread.jpg" alt="round the world">
 
 ## Set-up
 
 After your concept and design is ready, you’ll need to get set up to write some code. We’ll cover some best practices together in class. Once you’re ready to go:
 
-1—
+### 1
 You will receive an invitation to a shared Dropbox folder. This folder is connected to Small Victories. Any files you put into this folder will sync to Dropbox and appear on your website (demo). The URL of your website will follow this structure: `jacobheftmann.com/automatic-book-workshop/projects/course/lastname` (I’ll post this in class).
 
-2—
+### 2
 In your project folder, there is a file called `_sv_settings.txt`. Update this with the name of your project and description.
 
-3—
-[Download the template files]() and unzip them. Put the contents of this folder into your project folder. When you refresh your website, it should look something [like this](https://sv-custom-themes.smvi.co/sv-bindery). You may also want to add some of your own content (or at least remove the deafult content). Other than Bindery, this works just like a normal SV site ([check the docs](https://docs.smallvictori.es/) if you have questions).
+### 3
+[Download the template files](_assets/template.zip) and unzip them. Put the contents of this folder into your project folder. When you refresh your website, it should look something [like this](https://sv-custom-themes.smvi.co/sv-bindery). You may also want to add some of your own content (or at least remove the deafult content). Other than Bindery, this works just like a normal SV site ([check the docs](https://docs.smallvictori.es/) if you have questions).
 
-!()[_assets/default-site.png]
+![](_assets/default-site.png)
 
-4—
+### 4
 Depending on your individual project, you’ll need to connect IFTTT or Zapier with your Dropbox project folder. You’ll use one of these services to automate the creation of the content that fills your book based on your own specific parameters. Test the integration to make sure that content is appearing in your project folder (and on your website) as expected.
 
-5—
+### 5
 In your `_sv_custom.js` file, there is a function that runs `bindery.js`. You can customize this function to set specific margins, page sizes, etc. based on your individual design ([refer to the Bindery docs](https://evanbrooks.info/bindery/docs/#printsetup)).
 
-6—
+### 6
 After your content and book are working to your satisfaction, open up your `_sv_custom.css` file to start designing your book.
 
-<span class="page-break"></span>
+<!-- <span class="page-break"></span> -->
 
-## Projects
+## Appendix
 
 ### Related reading
 - John Caserta: [website](http://johncaserta.com/), [book](http://johncaserta.com/bindery.html)
@@ -93,7 +91,8 @@ After your content and book are working to your satisfaction, open up your `_sv_
 - [Library of the Printed Web](https://printedweb.org/)
 - [Every Photo](https://bindery-demo.smvi.co/)
 
-### HBKSaar 2019
+### Projects
+#### HBKSaar 2019
 - [Jacob Heftmann](projects/hbk19/heftmann)
 - [Simon Feltes](projects/hbk19/feltes)
 - [Matchima Toebkaya](projects/hbk19/toebkaya)
@@ -116,6 +115,8 @@ After your content and book are working to your satisfaction, open up your `_sv_
 <span class="page-break"></span>
 
 ## Impressum
+
+The source code for this website is available [here](https://github.com/jheftmann/automatic-book-workshop).
 
 Thanks to [Evan Brooks](https://evanbrooks.info/bindery/docs/#printsetup) for building Bindery.js and his assistance in getting it set up, and to [John Caserta](https://evanbrooks.info/bindery/docs/#printsetup) for introducing me to Bindery, giving me the idea for this workshop, and general inspiration.
 

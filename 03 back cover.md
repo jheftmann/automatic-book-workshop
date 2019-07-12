@@ -1,3 +1,3 @@
 <span class="back-cover"></span>
 
-Description lorem ipsume laj;wej;gl kgakgh kawhgkwj nefkawn aslfdjalwf lwje  asfd waeawf awe asdfwetwr sf asdfs asfds asdf asdf asf fsdaf
+This workshop is being given for the first time at Hochschule der Bildenden Künste Saar in Saarbruecken, Germany in 2019.
