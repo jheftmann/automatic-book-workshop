@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: "FreizeitTrial";
-    src: url('_assets/_fonts/FreizeitTrial-Light.otf') format('woff2');
+    src: url('_assets/_fonts/FreizeitTrial-Regular.otf') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -106,6 +106,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--ff-secondary);
   line-height: 1.1;
+  margin: 0;
+  padding: 0;
 }
 
 h1.cover {
@@ -113,6 +115,7 @@ h1.cover {
   text-align: center;
   line-height: .9;
   color: white;
+  padding: 24pt 0;
 }
 
 h2 {
@@ -120,26 +123,18 @@ h2 {
 }
 
 h3 {
-  font-size: 24pt;
+  font-size: 18pt;
 }
 
-p {
-  margin-bottom: 18pt;
-  /* margin-bottom: 0; */
+h2, p {
+  margin-bottom: 0;
+  padding-bottom: 18pt;
 }
 
-p + p {
+p + p, p + ol, p + ul {
   /* text-indent: 48pt; */
   /* margin-bottom: 24pt; */
-}
-
-p + ol,
-p + ul {
-  /* margin-bottom: 0; */
-}
-
-p + h2 {
-  margin-top: 24pt;
+  /* padding-top: 18pt; */
 }
 
 code, pre {
