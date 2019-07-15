@@ -73,7 +73,7 @@
 
 /* bindery controls updates */
 .📖-zoom-content {
- /* background: black !important; */
+ background: black !important;
 }
 
 .📖-page {
@@ -107,7 +107,6 @@ body {
   color: var(--main-color);
   font-size: 16pt;
   line-height: 1.1;
-  background: black;
 }
 
 h1, h2, h3, h4, h5, h6 {

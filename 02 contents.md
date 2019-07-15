@@ -16,6 +16,7 @@ This workshop was originally designed as a way for designers to explore the poss
 There are probably many differences we can point to between a book and a website (or between analog/digital, old/new, etc.), and most of them have been discussed exhaustively in other places. For the purposes of this workshop, we are interested less in the difference in these media but in how to apply the unique features of each to the other.
 
 <span class="page-break"></span>
+
 ## Provocations
 
 We think of a book as a static object. Once it’s been printed, that’s it (until perhaps a new edition is released). The content cannot change, the form will always remain as originally intended, and it is, by definition, scarce. And by its nature, the process of making a book must follow a certain procedure: we create the content that will go inside it, format this content into the design of the book, print the pages, and bind it all together. The book is a finished state.
