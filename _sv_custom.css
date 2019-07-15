@@ -1,3 +1,9 @@
+/* installation */
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
 @font-face {
     font-family: "GT Alpina";
     src: url('_assets/_fonts/GT-Alpina-Regular.otf') format('otf'),
@@ -67,11 +73,11 @@
 
 /* bindery controls updates */
 .📖-zoom-content {
- background: black !important;
+ /* background: black !important; */
 }
 
-.📖-root {
-  padding-top: 60px !important;
+.📖-page {
+  background: white;
 }
 
 .📖-controls,
@@ -101,6 +107,7 @@ body {
   color: var(--main-color);
   font-size: 16pt;
   line-height: 1.1;
+  background: black;
 }
 
 h1, h2, h3, h4, h5, h6 {

@@ -1,3 +1,4 @@
 title: Automatic Book Workshop
 theme: feed
+badge: hide
 description: In this workshop we will create (printable) books programmatically using web technologies and programming languages.

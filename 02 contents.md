@@ -125,6 +125,6 @@ The source code for this website is available [on Github](https://github.com/jhe
 
 The files and documentation for the SV + Bindery theme are on the [SV Developers Github repo](https://github.com/smallvictories/developers/tree/master/03-custom-templates/sv-bindery). You can also [check out the basic demo](https://sv-custom-themes.smvi.co/sv-bindery).
 
-Thanks to [Evan Brooks](https://evanbrooks.info/bindery/docs/#printsetup) for creating Bindery.js and his assistance in getting it set up, and to [John Caserta](https://evanbrooks.info/bindery/docs/#printsetup) for introducing me to Bindery and general inspiration.
+Thanks to [Evan Brooks](https://evanbrooks.info/) for creating Bindery.js and his assistance in getting it set up, and to [John Caserta](http://johncaserta.com/) for introducing me to Bindery and general inspiration.
 
 [Small Victories](https://www.smallvictori.es) takes the files on your computer and turns them into websites. No coding, serves, or CMS required, and it’s free. This book/website is set in [Freizeit](https://polytype.co.uk/) and [GT Alpina](https://www.grillitype.com/).

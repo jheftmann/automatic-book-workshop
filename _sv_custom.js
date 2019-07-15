@@ -2,8 +2,8 @@ $(document).ready(function(){
   console.log('ready');
 
   // remove the injected scripts from the Bindery object
-  $('.sv-feed-item.00abindery').prependTo('body');
-  $('.sv-feed-item.00bbinderycontrols').prependTo('body');
+  $('.sv-feed-item.00abindery').prependTo('body').hide();
+  $('.sv-feed-item.00bbinderycontrols').prependTo('body').hide();
   $('.sv-feed-item').css({
     "padding": 0,
     "float": "none"
