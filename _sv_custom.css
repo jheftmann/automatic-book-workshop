@@ -72,26 +72,30 @@
 }
 
 /* bindery controls updates */
-.📖-zoom-content {
- background: black !important;
-}
+@media only screen {
 
-.📖-page {
-  background: white;
-}
+  .📖-zoom-content {
+   background: black !important;
+  }
 
-.📖-controls,
-.📖-view-print.📖-controls {
-  background: black !important;
-}
+  .📖-page {
+    background: white;
+  }
 
-.📖-controls .📖-select, .📖-control {
-  color: white !important;
-}
+  .📖-controls,
+  .📖-view-print.📖-controls {
+    background: black !important;
+  }
 
-.📖-controls button {
-  background: white !important;
-  color: black !important;
+  .📖-controls .📖-select, .📖-control {
+    color: white !important;
+  }
+
+  .📖-controls button {
+    background: white !important;
+    color: black !important;
+  }
+
 }
 
 /* styles */
@@ -101,8 +105,6 @@
 }
 
 body {
-  height: auto;
-  width: 100%;
   font-family: var(--ff-primary);
   color: var(--main-color);
   font-size: 16pt;

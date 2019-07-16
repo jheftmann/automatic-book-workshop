@@ -92,6 +92,7 @@ After your content and book are working to your satisfaction, open up your `_sv_
 ## Appendix
 
 ### Related reading
+
 - John Caserta [website](http://johncaserta.com/) and [book](http://johncaserta.com/bindery.html)
 - [for / with / in](http://htmloutput.risd.gd/book/)
 - [Library of the Printed Web](https://printedweb.org/)
@@ -100,6 +101,7 @@ After your content and book are working to your satisfaction, open up your `_sv_
 ### Projects
 
 HBKSaar 2019
+
 - [Jacob Heftmann](projects/hbk19/heftmann)
 - [Simon Feltes](projects/hbk19/feltes)
 - [Matchima Toebkaya](projects/hbk19/toebkaya)
@@ -120,6 +122,7 @@ HBKSaar 2019
 - [Felix Bronko Noll](projects/hbk19/noll)
 
 <span class="page-break"></span>
+
 ## Impressum
 
 The source code for this website is available [on Github](https://github.com/jheftmann/automatic-book-workshop).

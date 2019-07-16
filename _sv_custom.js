@@ -49,12 +49,12 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '148.5mm', height: '210mm' },
+      size: { width: '148.5mm', height: '200mm' },
       margin: { top: '48pt', inner: '18pt', outer: '24pt', bottom: '18pt' },
     },
     printSetup: {
       layout: Bindery.Layout.BOOKLET,
-      paper: Bindery.Paper.A4_LANDSCAPE,
+      paper: Bindery.Paper.AUTO_MARKS,
       marks: Bindery.Marks.CROP,
       bleed: '12pt',
     },

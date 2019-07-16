@@ -1,4 +1,4 @@
-<div class="title-section"></div>
+<span class="title-section"></span>
 
 <script>
 var today = new Date();
@@ -12,7 +12,13 @@ var month = monthNames[today.getMonth()];
 today = month + ' ' + dd + ', ' + yyyy;
 document.write('<p class="text-centered align-top text-reverse">' + today + '</p>');
 </script>
-# <span style="transform: scaleX(-1);display: inline-block;">Automatic</span> Book <span class="text-primary">Workshop</span>
+
+<h1>
+  <span style="transform: scaleX(-1);display: inline-block;">Automatic</span>
+  Book
+  <span class="text-primary">Workshop</span>
+</h1>
+
 <span class="text-centered align-bottom text-reverse">Jacob Heftmann</span>
 
 <span class="page-break"></span>
