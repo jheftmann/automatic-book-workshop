@@ -1,0 +1,29 @@
+@import url("https://use.typekit.net/deu3vtv.css");
+
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+* {
+  font-weight: normal;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  line-height: 1.2;
+  font-family:  covik-sans, sans-serif;
+  font-style: regular;
+  font-size: 1px;
+  color: rgb(0, 141, 153);
+}
+
+  img {
+    color: black/white 
+  }
+
+
+h1.cover {
+  text-align: center;
+}

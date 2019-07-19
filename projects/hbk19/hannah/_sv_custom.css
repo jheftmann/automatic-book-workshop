@@ -1,0 +1,47 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+
+
+body {
+  height: auto;
+  width: 80%;
+  font-size: 100px;
+  font-weight: 900;
+  text-align: right;
+  line-height: 100px;
+  color: Navy;
+  font-family: Roboto;
+}
+
+p, li
+{
+    font-weight: bolder;
+    font-size: 26pt;
+    text-transform: lowercase;
+    text-align: center;
+    line-height: 26pt;
+    font-weight: 900;
+    color: Tomato;
+}
+
+h1
+{
+  font-size: 120px;
+  font-weight: 900;
+  text-align: right;
+  line-height: 115px;
+  color: Navy;
+}
+
+h2, h3
+{
+  font-size: 50px;
+  font-weight: 900;
+  text-align: right;
+  line-height: 45px;
+  color: Navy;
+
+}

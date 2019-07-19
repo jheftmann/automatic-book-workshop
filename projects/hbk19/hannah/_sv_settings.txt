@@ -1,0 +1,4 @@
+title: 1Tweet
+theme: feed
+badge: hide
+description: ein zeichen pro tweet

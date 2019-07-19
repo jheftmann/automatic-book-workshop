@@ -1,0 +1,45 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+* {
+  font-weight: normal;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  line-height: 1.2;
+  font-family: Times;
+  color: white;
+}
+
+h1.cover {
+  text-align: center;
+}
+
+p.cover {
+  padding: 0 48pt;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+.📖-page {
+  background: black !important;
+}
+
+.📖-flow-box {
+  display: flex;
+  align-items: center;
+}
+
+.sv-feed-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}

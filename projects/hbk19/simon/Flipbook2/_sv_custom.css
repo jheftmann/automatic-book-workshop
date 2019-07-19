@@ -1,0 +1,31 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+* {
+  font-weight: normal;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  line-height: 1.2;
+  font-family: Times;
+}
+
+h1.cover {
+  text-align: center;
+  margin-top: 10px;
+  margin-lfet: 5px;
+}
+
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 3px #000000;
+  color: white;
+}
+img {
+  height: 100mm;
+}

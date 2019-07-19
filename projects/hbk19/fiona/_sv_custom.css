@@ -1,0 +1,53 @@
+@import url("https://use.typekit.net/ttk4idn.css");
+@import url("https://use.typekit.net/ttk4idn.css");
+
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+* {
+  font-weight: normal;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  line-height: 1.2;
+  font-family: 'gitan-latin', sans-serif;
+  color: blue;
+}
+
+h1.cover {
+  font-size: 100px;
+  font-family: 'acier-bat-gris', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+img {
+  width: 100%;
+  margin-left: 4px;
+}
+
+p, li {
+  font-size: 16px;
+  font-family: 'gitan-latin', sans-serif;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-indent: 50px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+
+a {
+  font-size: 16px;
+  font-family: 'gitan-latin', sans-serif;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-indent: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+}

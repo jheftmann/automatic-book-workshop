@@ -1,0 +1,45 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+* {
+  font-weight: bold;
+}
+
+body {
+  line-height: 1.2;
+  font-family: SourceSansPro-Light;
+  color: black;
+  font-size: 8pt;
+}
+
+h1.cover {
+  text-align: center;
+}
+
+h1 {
+  color:black;
+  text-decoration: orange underline;
+  font-family: SourceSerifPro-bold;
+  font-size: 24pt;
+  }
+
+h2 {
+  color: black;
+  font-size: 16pt;
+  font-family: SourceSerifPro-Bold
+}
+
+p {
+  line-height: 1.2;
+  font-family: SourceSansPro-Light;
+  color: black;
+  font-size: 8pt;
+}
+
+.captions {
+  font-family: SourceCodePro-ExtraLight;
+  font-size: 6pt;
+  color: grey;
+}

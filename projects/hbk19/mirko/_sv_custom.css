@@ -1,0 +1,43 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+
+ title {
+  height: auto;
+  width: 100%
+  line-height:1
+  font-family: Arial;
+  color: yellow;
+;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  line-height: 0.5;
+  font-family: Helvetica;
+  color: red;
+
+
+h1.cover {
+  text-align: centre;
+}
+
+h1{
+   font-family: Prestige;
+   color: green;
+
+  }
+
+h1.reverse-txt {
+background: black
+color: red;
+
+
+p{
+ font-size:8px
+ font-family: '1942 report' 'bodoni MT'
+ line-height:1.2;
+ letter-spacing: 1.25mm;
+ text-ident:50px

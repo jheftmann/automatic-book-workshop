@@ -1,0 +1,5 @@
+title: Bronko’s Book
+theme: feed
+size: random
+badge: hide
+description: description

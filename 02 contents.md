@@ -48,14 +48,14 @@ You’ll  need a few important pieces that work together to make this all functi
 No specialized coding knowledge is required for this course. We will cover basic HTML and CSS, mostly as they pertain to typography, and a tiny bit of JavaScript. You will need some basic tools for this part:
 
 - A code editor like [Atom](https://atom.io)
-- A [Dropbox](https://www.dropbox.com) account
+- A [Dropbox](https://www.dropbox.com) account. You can do this via the Dropbox web interface but it’s much easier to use the Dropbox desktop app so that you have access to all your files through the finder
 - Chrome [developer tools](https://developers.google.com/web/tools/chrome-devtools/)
 - There are other materials on the [class resources Github](https://github.com/jheftmann/class-resources) that will be useful
 - In addition, you’ll need whatever design software you want to use to sketch out your book
 
 Finally, you’ll need to download the project template. I’ve gotten the basic set-up working for you so just follow the instructions for installing it in your own project.
 
-<a href="_assets/template.zip" class="button">Download</a>
+<a href="https://www.dropbox.com/s/xy186ad9hgqaji4/template.zip?dl=0" class="button">Download</a>
 
 <img class="spread" src="_assets/spread.jpg" alt="round the world">
 
@@ -65,15 +65,23 @@ After your concept and design is ready, you’ll need to get set up to write som
 
 ### 1—Create a website
 
-You will receive an invitation to a shared Dropbox folder. This folder is connected to Small Victories. Any files you put into this folder will sync to Dropbox and appear on your website (demo). The URL of your website will follow this structure: `jacobheftmann.com/automatic-book-workshop/projects/course/lastname` (I’ll post this in class).
+You will receive an invitation to a shared Dropbox folder. This folder is connected to Small Victories. Any files you put into this folder will sync to Dropbox and appear on your website (demo). The URL of your website will follow this structure: `jacobheftmann.com/automatic-book-workshop/projects/course/firstname` (I’ll post this in class).*
+
+*if you’re doing this on your own (not in a workshop) you can just make your own new Small Victories website (Feed) and use that instead. (And of course that’s the URL you’ll use.)
 
 ### 2–Update settings
 
-In your project folder, there is a file called `_sv_settings.txt`. Update this with the name of your project and description.
+In your project folder, there is a file called `_sv_settings.txt`. Update this with the name of your project and description. You’ll need at least the following:
+
+```
+title:
+theme: feed
+description:
+```
 
 ### 3—Install Bindery.js
 
-[Download the template files](_assets/template.zip) and unzip them. Put the contents of this folder into your project folder. When you refresh your website, it should look something [like this](https://sv-custom-themes.smvi.co/sv-bindery). You may also want to add some of your own content (or at least remove the deafult content). Other than Bindery, this works just like a normal SV site ([check the docs](https://docs.smallvictori.es/) if you have questions).
+[Download the template files](https://www.dropbox.com/s/xy186ad9hgqaji4/template.zip?dl=0) and unzip them. Put the contents of this folder into your project folder. When you refresh your website, it should look something [like this](https://sv-custom-themes.smvi.co/sv-bindery). You may also want to add some of your own content (or at least remove the deafult content). Other than Bindery, this works just like a normal SV site ([check the docs](https://docs.smallvictori.es/) if you have questions).
 
 ### 4—Connect content
 
@@ -103,23 +111,19 @@ After your content and book are working to your satisfaction, open up your `_sv_
 HBKSaar 2019
 
 - [Jacob Heftmann](projects/hbk19/heftmann)
-- [Simon Feltes](projects/hbk19/feltes)
-- [Matchima Toebkaya](projects/hbk19/toebkaya)
-- [Hannes Brischke](projects/hbk19/brischke)
-- [Besnik Spahijaj](projects/hbk19/spahijaj)
-- [Michael Jakobi](projects/hbk19/jakobi)
-- [Weiying Xue](projects/hbk19/xue)
-- [Celine Felber](projects/hbk19/felber)
-- [Mirko Michelacci](projects/hbk19/michelacci)
-- [Angelina Müller](projects/hbk19/mueller)
-- [Fiona Arenz](projects/hbk19/arenz)
-- [Emma Zerial](projects/hbk19/zerial)
-- [Francesca Simonetti](projects/hbk19/simonetti)
-- [Luisa Bäßmann](projects/hbk19/baessmann)
-- [Niklas Röder](projects/hbk19/roeder)
-- [Alexander Wöhler ](projects/hbk19/woehler)
-- [Hannah Dietel](projects/hbk19/dietel)
-- [Felix Bronko Noll](projects/hbk19/noll)
+- [Simon Feltes](projects/hbk19/simon)
+- [Matchima Toebkaya](projects/hbk19/matchi)
+- [Sophie Hauck](projects/hbk19/sophie)
+- [Besnik Spahijaj ?](projects/hbk19/besnik)
+- [Celine Felber](projects/hbk19/celine)
+- [Mirko Michelacci](projects/hbk19/mirko)
+- [Angelina Müller](projects/hbk19/angelina)
+- [Fiona Arenz](projects/hbk19/fiona)
+- [Emma Zerial](projects/hbk19/emma)
+- [Francesca Simonetti](projects/hbk19/francesca)
+- [Christian Dietz](projects/hbk19/christian)
+- [Hannah Dietel](projects/hbk19/hannah)
+- [Felix Bronko Noll](projects/hbk19/bronko)
 
 <span class="page-break"></span>
 

@@ -1,0 +1,4 @@
+title: Anni Albers
+theme: feed
+badge: hide
+description: description

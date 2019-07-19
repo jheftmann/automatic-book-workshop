@@ -1,0 +1,44 @@
+.sv-feed-item.00bbinderycontrols,
+.sv-feed-item.00abindery {
+  display: none;
+}
+@import url('https://fonts.googleapis.com/css?family=Erica+One&display=swap');
+
+
+
+
+body {
+  height: 120px;
+  width: 100%;
+}
+img{
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: auto;
+}
+
+
+h1{
+  font-family: 'Erica One';
+  font-size: 40px;
+  color: white;
+  text-align: left;
+  line-height: 1;
+}
+
+.📖-page {
+  background: black !important;
+}
+
+.📖-flow-box {
+  display: flex;
+  align-items: center;
+}
+
+.sv-feed-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
