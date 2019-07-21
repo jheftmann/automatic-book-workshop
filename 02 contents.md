@@ -36,6 +36,7 @@ What would a book be like if:
 - It can by customized by the person reading it
 - My copy is different than your copy
 - It is different today than it will be tomorrow
+- What about the design process changes when you cannot reliably determine things like what content will go on which page or even how many pages your book will be
 
 ## Tools
 
@@ -87,6 +88,8 @@ description:
 
 Depending on your individual project, you’ll need to connect IFTTT or Zapier with your Dropbox project folder. You’ll use one of these services to automate the creation of the content that fills your book based on your own specific parameters. Test the integration to make sure that content is appearing in your project folder (and on your website) as expected.
 
+Anything in this folder will appear on your website, so stay organized!
+
 ### 5—Configure Bindery
 
 In your `_sv_custom.js` file, there is a function that runs `bindery.js`. You can customize this function to set specific margins, page sizes, etc. based on your individual design ([refer to the Bindery docs](https://evanbrooks.info/bindery/docs/#printsetup)).
@@ -113,11 +116,8 @@ HBKSaar 2019
 - [Jacob Heftmann](projects/hbk19/heftmann)
 - [Simon Feltes](projects/hbk19/simon)
 - [Matchima Toebkaya](projects/hbk19/matchi)
-- [Sophie Hauck](projects/hbk19/sophie)
-- [Besnik Spahijaj ?](projects/hbk19/besnik)
 - [Celine Felber](projects/hbk19/celine)
 - [Mirko Michelacci](projects/hbk19/mirko)
-- [Angelina Müller](projects/hbk19/angelina)
 - [Fiona Arenz](projects/hbk19/fiona)
 - [Emma Zerial](projects/hbk19/emma)
 - [Francesca Simonetti](projects/hbk19/francesca)

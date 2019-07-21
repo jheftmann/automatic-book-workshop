@@ -42,6 +42,12 @@ document.addEventListener('DOMContentLoaded', function() {
       size: { width: '148mm', height: '210mm' },
       margin: { top: '0pt', inner: '0pt', outer: '0pt', bottom: '0pt' },
     },
+    printSetup: {
+      layout: Bindery.Layout.SPREADS,
+      paper: Bindery.Paper.AUTO_MARKS,
+      marks: Bindery.Marks.CROP,
+      bleed: '5mm',
+    },
     rules: [
       Bindery.PageBreak({
         selector: 'img',

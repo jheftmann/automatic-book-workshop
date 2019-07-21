@@ -1,0 +1,28 @@
+<div class="cover">   
+
+  <h1>
+    <b>Wie geht es <br>uns heute? </b><br><br>
+    19.07.2019 – <br>
+    <script type="text/javascript">
+      var today = new Date();
+      var dd = String(today.getDate()).padStart(2, '0');
+      var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+      var yyyy = today.getFullYear();
+
+      today = dd + '.' + mm + '.' + yyyy;
+      document.write(today);
+    </script>
+  </h1>
+
+</div>
+
+<!-- <script type="text/javascript">
+  var imgCount = 3;
+      var dir = '_assets/';
+      var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+      var images = new Array
+              images[1] = "00_cover-1.png",
+              images[2] = "00_cover-2.png",
+              images[3] = "00_cover-2.png",
+      document.getElementsByClassName(".cover").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
+ </script> -->

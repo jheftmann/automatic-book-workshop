@@ -1,3 +1,14 @@
+@font-face {
+    src: url('_fonts/InputSans-Regular-Edu.eot'); /* IE < 9 */
+    src: url('_fonts/InputSans-Regular-Edu.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('_fonts/InputSans-Regular-Edu.woff2') format("woff2"),
+         url('_fonts/InputSans-Regular-Edu.woff') format("woff");
+    font-family: 'InputSans';
+    font-style: normal;
+    font-weight: normal;
+    }
+
+@import url("https://use.typekit.net/ttk4idn.css");
 @import url("https://use.typekit.net/ttk4idn.css");
 @import url("https://use.typekit.net/ttk4idn.css");
 
@@ -14,15 +25,21 @@ body {
   height: auto;
   width: 100%;
   line-height: 1.2;
-  font-family: 'gitan-latin', sans-serif;
-  color: blue;
+  font-family: 'InputSans', 'quiroh', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #23fc03;
 }
 
-h1.cover {
-  font-size: 100px;
-  font-family: 'acier-bat-gris', sans-serif;
-  text-align: center;
-  color: black;
+h2 {
+  height: auto;
+  width: 100%;
+  line-height: 1.2;
+  font-family: 'InputSans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  color: #23fc03;
 }
 
 img {
@@ -30,24 +47,27 @@ img {
   margin-left: 4px;
 }
 
-p, li {
-  font-size: 16px;
-  font-family: 'gitan-latin', sans-serif;
-  line-height: 1.2;
-  letter-spacing: 1px;
-  text-indent: 50px;
-  text-align: right;
-  text-transform: uppercase;
+.cover {
+  height: 100%;
+  width: 100%;
+  background-color: red;
 }
 
-
-a {
-  font-size: 16px;
-  font-family: 'gitan-latin', sans-serif;
+p, li {
+  font-size: 14px;
+  font-family: 'InputSans';
+  font-style: normal;
+  font-weight: 250;
   line-height: 1.2;
   letter-spacing: 1px;
-  text-indent: 50px;
-  text-align: center;
-  text-transform: uppercase;
-  color: red;
+  text-align: left;
+}
+
+a {
+  font-size: 14px;
+  font-family: 'InputSans';
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-align: left;
+  color: grey;
 }

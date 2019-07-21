@@ -1,7 +1,108 @@
-# Hello, I'm Anni Albers
+<br>
+# Weaving Magic
+<br>
+<h2>One more
+<br>
+views on
+<br>
+<span class="orange">Anni Albers</span>
+<br>
+work.</h2>
+--------
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<p class="captions"> Source
+<br>
+© 2019 The Josef and Anni Albers Foundation
+TATE Collection </p>
+
+## Upcoming exhibitions
+<p> <b> 2019 Chicago </b>
+<br>
+Art Institute of Chicago,
+Weaving beyond the Bauhaus,
+3 August 2019–16 February 2020
+<br>
+<p> <b> 2019 Tucson, Arizona </b>
+<br>
+University of Arizona Museum of Art,
+A New Unity: The Life and Afterlife of Bauhaus,
+31 August–1 December 2019
+<br>
+<p> <b> 2019 Chicago </b>
+<br>
+Art Institute of Chicago,
+In a Cloud, in a Wall, in a Chair: Six Modernists in Mexico at Midcentury,
+5 September 2019–12 January 2020
+<br>
+<p> <b> 2019 New York </b>
+<br>
+David Zwirner Gallery,
+Anni Albers,
+10 September–19 October 2019
+<br>
+<p> <b> 2019 New York </b>
+<br>
+Museum of Modern Art,
+Taking a Thread for a Walk,
+21 October 2019–1 July 2020
+<br>
+<p> <b> 2019 Krefeld, Germany </b>
+<br>
+Kaiser Wilhelm Museum,
+Folklore and Avant-Garde: The Reception of Popular Traditions in the Age of Modernism,
+10 November 2019–23 February 2020
+<br>
+<p> <b> 2020 Paris </b>
+<br>
+Musée d'Art Moderne de la Ville de Paris,
+Josef and Anni Albers: Constructions Parallèles,
+9 October 2020–21 February 2021 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+# Hello! I'm Anni Albers
+<br>
 ## Have you ever heard about me?
-
+<br>
+<br>
 <p> As a student at the Bauhaus in Germany in the early 1920s, Anni Albers found artistic freedom in the weaving workshop, where she began to explore the technical limits of fibres and the loom as a means of expression and experimentation. Albers pioneered a tactile approach to abstraction and modernist design, and her subsequent career as an artist and teacher has had a far-reaching legacy. </p>
 
 <img src="_img/anni_albers_in_her_weaving_studio_at_black_mountain_college_1937_photographed_by_helen_m_post_-_courtesy_the_western_regional_archives_state_archives_of_north_carolina_1.jpg"/>
@@ -13,7 +114,6 @@
 Her body of work is not vast – weaving is a very slow process and her output was relatively small compared to other artists, not least to the hundreds of Homages to the Square famously produced by her husband Josef Albers. But there are several factors that make her work seem particularly timely and that resonate in today’s digitised world of instant screen time: such as the slow time of hand-loom weaving and the strong affective sense of the weaver’s hand and touch. As Anni Albers put it, weaving offered ‘ways to regain sensitivity towards textile surfaces: texture’ which also suggests a means to regain a connectedness to a bodily and corporeal existence. ‘Sensitising’ the forms of geometric abstraction in this way is one of her most striking achievements, spanning a long career from the 1920s through to her late commission for a wall hanging in an iconic modernist hotel in Mexico City in 1968. </p>
 
 <img src="_img/anni_albers_wall_hanging_1926_1.jpg"/>
-
 <p class="captions"> Anni Albers, Black and White 1926, re-woven by Gunta Stölzl 1965, cotton and silk, 203.8 x 120.3 cm </p>
 
 <p> Anni Albers entered the Bauhaus as a student in 1922. Most women at the Bauhaus joined the weaving workshop and it’s fair to say that, although determined by their gender, they turned what might be conceived of as a constraint to an advantage. The remarkable group of women weavers – also including Gunta Stölzl, who would come to lead it, Otti Berger and others – formed an intense critical mass in the school, developing a sophisticated modern theory of weaving that both extended the remit of Bauhaus modernism and also, with hindsight, can be seen to have represented an alternative trajectory to it. Weaving, for Albers certainly, offered a way to bridge the divide between art and design, not by opting for either one in preference to the other, but in working with both in tandem – making abstract wall hangings that she saw as artworks like the paintings of Klee and Kandinsky at the same time that she was designing things for use, such as wall coverings, fabrics or rugs. Her diploma piece at the Bauhaus was a sound-proofing fabric to improve the acoustics of Hannes Meyer’s auditorium for a nearby trade union school. Throughout her life she thought about the relationship between what she would later call her ‘pictorial weavings’ that hung on the wall and her work designing for machine production. </p>
@@ -44,10 +144,6 @@ There is a striking symmetry between her collection of pre-Columbian fragments a
 
 I don’t think the Albers’s collecting habit (because this was definitely a shared operation) can be described simply as a primitivist appropriation of ancient tecñiques from faraway places. It is not, that is, the kind of problematic overcoming of cultural difference that the Marxist art historian Meyer Schapiro once rounded on as the presumption that ‘the art of the whole world was now available on a single unhistorical and universal plane as a panorama of the formalising energies of man’, as if world culture were simply servile to what we could see as a colonial imagination dictating the geometric dogmas of modern art. Certainly, despite Anni Albers’s extensive knowledge about the weaving cultures of the world, and especially Latin America, her choices were mainly aesthetic rather than academic or scholarly. And yet what we must understand by aesthetic, in this instance, is much more than a narrowly formalist category but a sense of an aesthetic that is fundamentally structural, and structurally material and haptic – rather than one based on gathering similar forms and shapes just because of their superficial likeness. </p>
 
-<img src="_img/albers_event3.jpg"/>
-
-<p class="captions"> Anni Albers, Dotted 1959, wool, 60.3 x 27.9 cm </p>
-
 <p> As the geometric designs of weaving in older cultures show, abstract patterns can express complex belief systems and social attitudes. Likewise, we can also see weaving in the modern idiom as a vehicle to articulate the kinds of relationships we have to the forms and materials of life. For example, Anni Albers’s work – both the handwoven wall hangings and the one-off pictorial weavings that she made, through to her designs for machine production – embodies a commitment to experimental mixtures of synthetic and natural yarns and fibres. Even in her Bauhaus work, she was incorporating newly invented cellophane and would continue to do so in increasingly bold and striking ways. She made a group of room dividers for her 1949 exhibition at the Museum of Modern Art (MoMA) in New York, as well as samples for others, in which she characteristically combined materials as diverse as cellophane, horsehair, cotton and jute. In some of the experimental samples she made at this time for similar open weaves it is possible to see the interweaving of different textures that seems at first unremarkable, but which, as you look, is revealed to be more and more intricate and unexpected. These material juxtapositions are as innovative as the idea of the screens themselves, which Albers developed as prototypes for adaptable partitions in response to developments in modernist architecture, such as open-plan spaces and large glass windows. </p>
 
 <img src="_img/anni_albers_under_way_1963_cotton_linen_and_wool_73.8_x_61.3_cm_-_hirshhorn_museum_and_sculpture_garden_smithsonian_institution_washington_dc.jpg"/>
@@ -58,3 +154,25 @@ I don’t think the Albers’s collecting habit (because this was definitely a s
 
 
 <p> <i> Anni Albers, curated by Ann Coxon, Curator, International Art, Tate Modern and Briony Fer, with Maria Müller-Schareck, Curator, Stiftung Kunstsammlung Nordrhein-Westfalen; supported by the Terra Foundation for American Art, with additional support from the Anni Albers Exhibition Supporters Circle and Tate Patrons; The Eyal Ofer Galleries, Tate Modern, 11 October – 27 January 2019. </i> </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p class="captions"> Emma Zerial
+<br>
+Hochschule der Bildenden Künste Saar
+<br>
+SoSe 2019
+<br>
+Code is Cool Workshop, by Jacob Heftmann </p>

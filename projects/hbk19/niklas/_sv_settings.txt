@@ -1,4 +1,0 @@
-title: title
-theme: feed
-badge: hide
-description: description

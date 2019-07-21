@@ -15,11 +15,12 @@
 body {
   height: auto;
   width: 100%;
-  line-height: 0.5;
+  line-height: 1,5;
   font-family: Helvetica;
-  color: red;
-
-
+  color: black;
+  font-size:5px;
+  align: centre;
+}
 h1.cover {
   text-align: centre;
 }

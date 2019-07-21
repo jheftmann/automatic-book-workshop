@@ -1,8 +1,13 @@
 @import url("https://use.typekit.net/deu3vtv.css");
 
+
 .sv-feed-item.00bbinderycontrols,
 .sv-feed-item.00abindery {
   display: none;
+}
+
+a {
+color: rgb(0, 141, 153);
 }
 
 * {
@@ -17,11 +22,11 @@ body {
   font-style: regular;
   font-size: 1px;
   color: rgb(0, 141, 153);
+
+
 }
 
-  img {
-    color: black/white 
-  }
+
 
 
 h1.cover {

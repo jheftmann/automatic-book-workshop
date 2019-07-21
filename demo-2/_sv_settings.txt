@@ -1,5 +1,0 @@
-title: SV Demo
-theme: feed
-subdomain: 
-badge: hide
-description: The Title and Description do not appear on your site, they're only for SEO

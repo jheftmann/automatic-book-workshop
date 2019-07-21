@@ -49,11 +49,26 @@ img {
 }
 
 p {
-  color:blue;
+  color:rgb(236, 0, 140);
     font-family: 'Roboto Mono', monospace;
     font-weight: 500;
-    font-size: 13px;
-    line-height: 1.5;
-    text-align: center;
-
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: -webkit-left;
+    margin-left: 30px;
+    margin-right: 15px;
   }
+
+.cover {
+  width: 90%;
+  margin-top: 40px;
+}
+
+.back {
+color:cmyk(0%, 100%, 0%, 0%);
+font-family: 'Ultra', serif;
+font-size: 30px;
+line-height: 1.5;
+margin-left:20px;
+
+}

@@ -39,8 +39,26 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '4in', height: '6in' },
-      margin: { top: '12pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
+      size: { width: '5in', height: '8in' },
+      margin: { top: '30pt', inner: '30pt', outer: '30pt', bottom: '50pt' },
     },
+    rules: [
+      Bindery.FullBleedPage({selector: '.cover', continue: 'same'}),
+      Bindery.PageBreak({
+        selector: '.cover',
+        position: 'after',
+        continue: 'left'
+      }),
+      Bindery.PageBreak({
+        selector: 'h4.pagebreak',
+        position: 'before',
+        continue: 'next'
+      }),
+      Bindery.PageBreak({
+        selector: '.how-are-we',
+        position: 'before',
+        continue: 'next'
+      })
+    ], //rules
   });
 }, false);

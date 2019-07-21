@@ -1,5 +1,0 @@
-title: Bindery Demo
-theme: feed
-subdomain: bindery-demo
-badge: hide
-description: The Title and Description do not appear on your site, they’re only for SEO

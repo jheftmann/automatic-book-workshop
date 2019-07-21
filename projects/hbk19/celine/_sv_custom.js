@@ -43,11 +43,8 @@ document.addEventListener('DOMContentLoaded', function() {
       margin: { top: '12pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
     },
     rules: [
-      Bindery.PageBreak ({
-        selector: 'image',
-        position: 'before',
-        continue: 'right'
-      }),
+      Bindery.PageBreak({ selector: 'img', position: 'after' }),
+      // Bindery.PageBreak({ selector: 'p', position: 'after' }),
     ],
   });
 }, false);

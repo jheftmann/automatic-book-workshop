@@ -9,37 +9,53 @@
 
 body {
   line-height: 1.2;
-  font-family: SourceSansPro-Light;
+  font-family: Butler-Light;
   color: black;
   font-size: 8pt;
 }
 
 h1.cover {
-  text-align: center;
+ text-family: FreizeitTrial-Bold;
+ text-size: 48pt;
+  text-align: left;
+  line-height: 41pt;
+  color: black;
 }
 
 h1 {
-  color:black;
-  text-decoration: orange underline;
-  font-family: SourceSerifPro-bold;
-  font-size: 24pt;
+  text-family: FreizeitTrial-Bold;
+  text-size: 48pt;
+   text-align: left;
+   line-height: 41pt;
+   color: black;
   }
 
 h2 {
-  color: black;
-  font-size: 16pt;
-  font-family: SourceSerifPro-Bold
+  text-family: FreizeitTrial-Bold;
+  text-size: 24pt;
+   text-align: left;
+   line-height: 30pt;
+   color: black;
 }
 
 p {
-  line-height: 1.2;
-  font-family: SourceSansPro-Light;
+  line-height: 9pt;
+  font-family: FreizeitTrial-Light;
   color: black;
   font-size: 8pt;
 }
 
 .captions {
-  font-family: SourceCodePro-ExtraLight;
+  font-family: FreizeitTrial-Bold;
+  line-height: normal;
   font-size: 6pt;
-  color: grey;
+  color: black;
+}
+
+.orange {
+  color: orange;
+}
+
+.bold {
+  font-weight: 800;
 }

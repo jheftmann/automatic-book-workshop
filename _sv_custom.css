@@ -123,7 +123,7 @@ h1.cover {
   text-align: center;
   line-height: .9;
   color: white;
-  padding: 24pt 0;
+  padding: 24pt 0 32pt;
 }
 
 h2 {

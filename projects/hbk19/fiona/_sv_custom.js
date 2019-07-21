@@ -39,10 +39,14 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '4in', height: '6in' },
-      margin: { top: '12pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
+      size: { width: '3.5in', height: '5.5in' },
+      margin: { top: '17pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
     },
     rules: [
+      Bindery.FullBleedPage({
+        selector: '.cover',
+        continue: 'same'
+      }),
       Bindery.PageBreak({
         selector: 'img',
         position: 'before',

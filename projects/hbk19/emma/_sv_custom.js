@@ -42,5 +42,11 @@ document.addEventListener('DOMContentLoaded', function() {
       size: { width: '4in', height: '6in' },
       margin: { top: '12pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
     },
+    rules: [
+      Bindery.PageBreak({
+        selector: '.image-set',
+        position: 'avoid'
+      }),
+    ],
   });
 }, false);

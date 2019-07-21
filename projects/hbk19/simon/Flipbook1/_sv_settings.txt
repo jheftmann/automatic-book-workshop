@@ -2,3 +2,4 @@ title: GIFlipbook
 theme: feed
 badge: hide
 description: Flipbook generated from GIFs.
+Sort: name

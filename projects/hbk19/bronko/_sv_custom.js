@@ -49,8 +49,11 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '99mm', height: '176mm' },
+      size: { width: '67mm', height: '138mm' },
       margin: { top: '12pt', inner: '12pt', outer: '16pt', bottom: '20pt' },
     },
+    rules: [
+      Bindery.PageBreak({ selector: '.break', position: 'before' }),
+    ], // rules
   });
 }, false);

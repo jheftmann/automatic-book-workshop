@@ -39,14 +39,25 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '160mm', height: '260mm' },
+      size: { width: '210mm', height: '260mm' },
       margin: { top: '17mm', inner: '25mm', outer: '30mm', bottom: '20mm' },
     },
     rules: [
       Bindery.PageBreak({
-      selector: 'h1',
-      position: 'before',
-      continue: 'next'
-    })]
+        selector: 'li',
+        position: 'before',
+        continue: 'next',
+      }),
+      Bindery.PageBreak({
+        selector: 'h2',
+        position: 'before',
+        continue: 'left',
+      }),
+      Bindery.Split({
+        selector: 'p',
+        toNext: 'to-next',
+        fromPrevious: 'from-previous',
+      }),
+    ],
   });
 }, false);

@@ -9,15 +9,15 @@
 
 body {
   height: auto;
-  width: 100%;
   line-height: 1.2;
-  font-family: SportingGrotesque-Bold;
-  font-size: 10pt;
+  font-family: Sporting Grotesque;
+  font-size: 16pt;
   text-align: center;
 }
 img {
-width: 100%;
-margin-left: 3px;
+  width: 200px;
+  height: auto;
+  margin-left: 3px;
 }
 h1.cover {
   text-align: center;

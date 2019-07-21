@@ -1,3 +1,5 @@
+@import url("https://use.typekit.net/ppx1kas.css");
+
 .sv-feed-item.00bbinderycontrols,
 .sv-feed-item.00abindery {
   display: none;
@@ -11,9 +13,103 @@ body {
   height: auto;
   width: 100%;
   line-height: 1.2;
-  font-family: Times;
+  font-family: 'supria-sans', Helvetica, Arial, sans-serif;
+  color: red; /* #d33a2e */
 }
 
-h1.cover {
+h1 {
+    font-size: 14pt;
+    color: black;
+    padding: 3em 0 0 2em;
+}
+
+h1 b {
+  font-weight: 700;
+}
+
+h2 {
+    font-size: 26pt;
+}
+
+.how-are-we {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+div.cover {
+  background-color: red;
+  background-image: url('_assets/00_cover-1.png');
+  background-position: center;
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+div.backcover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+div.backcover img {
+  width: 150px;
+}
+
+.date {
+  margin-top: 0.75em;
   text-align: center;
+  font-size: 60pt;
+}
+
+a, .small-note {
+  font-size: 10pt;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  color: red;
+}
+
+a {
+  border: 1px solid red;
+  padding: .5em .5em 0.3em 0.5em;
+  border-radius: 8px;
+}
+
+a.in-text {
+  padding: 0;
+  border: none;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 12pt;
+}
+
+a.in-text:after {
+  content: ' ↗';
+}
+
+a:hover {
+  background-color: red;
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  text-indent: 1em;
+  font-size: 12pt;
+  line-height: 1.2em;
+}
+
+h6 {
+  display: none;
+}
+
+img {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  width: 100%;
+}
+
+img.cover {
+  filter: none;
+  background-blend-mode: none;
 }

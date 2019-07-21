@@ -14,5 +14,9 @@
 <br>
 <br>
 <br>
-<br>
-<p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." </p>
+
+<p> Il Louvre è uno dei musei più fotografati al mondo.
+Il profilo instagram conta centinaia di post raffiguranti pezzi d'arte unici e dettagli architettonici mozzafiato.<br>
+Ma se proviamo a cercare i contenuti condivisi dagli utenti??<br>
+Qui possiamo notare una duplice realtà: Louvre come luogo che racchiude arte e Louvre come location per shooting di fashion blogger e persone comuni.
+Questo libro analizza la doppia visione delle persone che passano da questo posto rendendo evidenti gli interessi personali e culturali di ognuno e di quanto i social network abbiamo trasformato la concezione di unicità nel relazionarsi all’arte. </p>

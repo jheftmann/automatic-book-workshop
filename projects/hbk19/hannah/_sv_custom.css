@@ -8,40 +8,62 @@
 body {
   height: auto;
   width: 80%;
-  font-size: 100px;
   font-weight: 900;
   text-align: right;
-  line-height: 100px;
-  color: Navy;
-  font-family: Roboto;
+  font-family: monospace;
 }
 
-p, li
+p
 {
-    font-weight: bolder;
-    font-size: 26pt;
+    font-size: 30pt;
     text-transform: lowercase;
     text-align: center;
-    line-height: 26pt;
-    font-weight: 900;
+    line-height: 15pt;
     color: Tomato;
 }
 
 h1
 {
-  font-size: 120px;
+
+  font-size: 270px;
   font-weight: 900;
   text-align: right;
-  line-height: 115px;
-  color: Navy;
+  line-height: 130px;
+  color: black;
 }
 
-h2, h3
+h3
 {
   font-size: 50px;
   font-weight: 900;
   text-align: right;
   line-height: 45px;
-  color: Navy;
+  color: black;
 
+}
+
+h4
+{
+  margin-left: 200px;
+  font-size: 50px;
+  font-weight: 900;
+  text-align: left;
+  line-height: 45px;
+  color: black;
+}
+
+
+h2
+{
+  margin-right: 325px;
+  font-size: 45px;
+  font-weight: 900;
+  text-align: right;
+  line-height: 42px;
+  color: black;
+
+}
+
+.sv-feed-item, p {
+  display: inline-block;
 }

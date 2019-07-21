@@ -29,3 +29,8 @@ h1 {
 img {
   height: 100mm;
 }
+
+img.coverimage {
+  width: 148mm;
+  height: 210mm;
+}
