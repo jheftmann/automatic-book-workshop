@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Datenschutz: "Hey Google, wer hört uns noch zu?"</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4535473/208x156" alt="Mikro aus, Töne an: Persönlichkeitsrechte bei Alexa und Co wahren" data-portal-copyright="dpa-tmn" /><p>Wer Alexa, Siri oder Google nutzt, kann sich sicher sein, dass irgendwann ein Mensch zuhört. Aber ist das ein Skandal?</p>
+ <a href="https://www.sueddeutsche.de/digital/alexa-google-datenschutz-1.4535355" target="_blank">Weiterlesen ↗</a>

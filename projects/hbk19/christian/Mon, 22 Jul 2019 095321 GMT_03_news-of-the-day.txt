@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Sprachassistenten: Siri, hol schon mal den Wagen!</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4534029/208x156" alt="gfu: Trend Künstliche Intelligenz bei Unterhaltungselektronik" data-portal-copyright="Daniel Reinhardt/dpa" /><p>Forscher haben untersucht, was Menschen mit ihren Sprachassistenten bereden: meistens ziemlich langweiliges Zeug. Wovor haben wir Angst?</p>
+ <a href="https://www.sueddeutsche.de/wirtschaft/siri-alexa-beliebteste-befehle-1.4533486" target="_blank">Weiterlesen ↗</a>

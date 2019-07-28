@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>USA: Justizministerium nimmt die Tech-Riesen ins Visier</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4537409/208x156" alt="Amazon-Logo an einer Lagerhalle" data-portal-copyright="AFP" /><p>Behindern Amazon, Facebook, Google und Co mit ihrer Marktmacht den Wettbewerb? Diese Frage soll in einer Untersuchung geklärt werden. Dahinter könnten auch politische Motive stecken.</p>
+ <a href="https://www.sueddeutsche.de/wirtschaft/usa-tech-konzerne-untersuchung-1.4537408" target="_blank">Weiterlesen ↗</a>

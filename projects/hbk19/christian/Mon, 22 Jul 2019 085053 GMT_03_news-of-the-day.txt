@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Klimaschutz: Windrad-Stau bedroht Energiewende</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4533737/208x156" alt="Windenergie in Ostdeutschland" data-portal-copyright="Patrick Pleul/dpa" /><p>Klagen von Naturschützern und Einwände von Behörden blockieren den Bau neuer Windräder. So wird sich das Ziel für 2030 kaum erreichen lassen.</p>
+ <a href="https://www.sueddeutsche.de/wirtschaft/windkraft-windraeder-energiewende-1.4533470" target="_blank">Weiterlesen ↗</a>

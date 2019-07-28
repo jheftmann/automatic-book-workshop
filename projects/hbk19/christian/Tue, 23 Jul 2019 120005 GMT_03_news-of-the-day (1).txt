@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Grafiken: Wie sehr Fliegen dem Klima schadet</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4535846/208x156" alt="" data-portal-copyright="Collage Jessy Asmus" /><p>Dass Flugzeuge sehr viel CO₂ ausstoßen, ist unbestritten. Aber wie groß ist der Einfluss des Fliegens auf unser Klima? Ein Erklärungsversuch in Grafiken.</p>
+ <a href="https://www.sueddeutsche.de/wissen/klima-fliegen-co2-grafik-1.4534651" target="_blank">Weiterlesen ↗</a>

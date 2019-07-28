@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Phishing: "Menschen sind neugierig, ängstlich oder gestresst"</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4536713/208x156" alt="Katharina Ketels" data-portal-copyright="OH" /><p>Sie kommen als unwiderstehliche Angebote daher oder harmlos als Bewerbung: bösartige Phishing-Mails. Die Techniksoziologin Katharina Ketels erklärt, warum so viele Internetnutzer darauf hereinfallen und wie man sich wehren kann. </p>
+ <a href="https://www.sueddeutsche.de/digital/phishing-menschen-sind-neugierig-aengstlich-oder-gestresst-1.4536259" target="_blank">Weiterlesen ↗</a>

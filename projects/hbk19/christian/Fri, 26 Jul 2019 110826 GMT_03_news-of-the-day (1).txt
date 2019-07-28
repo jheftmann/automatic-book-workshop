@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>System-Administrator: "Es heißt nicht umsonst: Reboot tut gut"</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.3948974/208x156" alt="Obama Outlines Policy For Open And Free Internet" data-portal-copyright="AFP" /><p>System-Administratoren halten unsere Computer am Laufen, aber selten wird ihnen dafür gedankt. Deshalb haben sie ihren eigenen Feiertag erfunden. Aus diesem Anlass sprach die SZ mit dem Chef ihrer eigenen SysAdmins.</p>
+ <a href="https://www.sueddeutsche.de/digital/sysadmin-appreciation-day-it-security-system-berufe-interview-1.4540404" target="_blank">Weiterlesen ↗</a>

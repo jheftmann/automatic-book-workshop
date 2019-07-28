@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Hitzerekord: In Geilenkirchen wird ein Rekordwert von 40,5 Grad gemessen</h3>
+<p>Das sind 0,2 Grad mehr als der bisherige deutsche Allzeitrekord. Der Deutsche Wetterdienst hat den Wert noch nicht bestätigt.</p>
+ <a href="https://www.sueddeutsche.de/panorama/hitze-rekord-temperatur-deutschland-1.4539049" target="_blank">Weiterlesen ↗</a>

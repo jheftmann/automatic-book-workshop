@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Sieg bei Ukraine-Wahl: Präsident Selenskij will Krieg in der Ostukraine beenden</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4534498/208x156" alt="Selenskij, Ukraine-Wahl" data-portal-copyright="dpa" /><p>Nach dem deutlichen Sieg seiner Partei Diener des Volkes nennt der Präsident zudem die Korruptionsbekämpfung als weitere Priorität. Er möchte nun mit der Partei eines bekannten Rocksängers regieren.</p>
+ <a href="https://www.sueddeutsche.de/politik/wahl-ukraine-ergebnis-1.4534440" target="_blank">Weiterlesen ↗</a>

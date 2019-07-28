@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>KI im Journalismus: Zu schnell für die Kontrolle</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4540840/208x156" alt="Traders work on floor of New York Stock Exchange (NYSE) after opening bell in New York" data-portal-copyright="REUTERS" /><p>Roboterjournalisten werden nicht nur in Redaktionen, sondern auch an der Börse eingesetzt. Was passiert, wenn die künstliche Intelligenz einen Fehler macht?</p>
+ <a href="https://www.sueddeutsche.de/medien/ki-journalismus-fehler-1.4539688" target="_blank">Weiterlesen ↗</a>

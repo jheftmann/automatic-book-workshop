@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Technologie: Bosch und Daimler tüfteln am Einparken ohne Fahrer</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4535976/208x156" alt="Fahrerloses Fahren" data-portal-copyright="dpa" /><p>Ab 2020 wollen die Unternehmen ihre neue Technik verkaufen, bis dahin experimentieren Daimler und Bosch in Stuttgart damit. Parkhaus-Besitzer und Versicherer zeigen jetzt schon großes Interesse.</p>
+ <a href="https://www.sueddeutsche.de/wirtschaft/bosch-daimler-fahrerloses-einparken-1.4535975" target="_blank">Weiterlesen ↗</a>

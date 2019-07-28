@@ -1,0 +1,5 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Facebook-Tracking: Was Fotodaten über uns verraten</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4534971/208x156" alt="Facebook Foto Metadaten" data-portal-copyright="Screenshot / Facebook.com" /><p>Facebook fügt allen Fotos einen Tracking-Code hinzu. Das dient der Sicherheit, sagt das Unternehmen. Doch Fotodaten verraten oft mehr, als Nutzer wollen. Mit ein paar Klicks lässt sich das verhindern.
+</p>
+ <a href="https://www.sueddeutsche.de/digital/facebook-fotos-metadaten-tracking-1.4534793" target="_blank">Weiterlesen ↗</a>

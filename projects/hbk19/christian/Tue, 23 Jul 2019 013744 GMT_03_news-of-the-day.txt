@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Stromausfall: Ganz Venezuela ohne Strom</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4535953/208x156" alt="Stromausfall in Caracas (Venezuela)" data-portal-copyright="AFP" /><p>Wieder fällt im ganzen Land der Strom aus. Grund dafür soll ein "elektromagnetischer Angriff" auf einen Staudamm sein. </p>
+ <a href="https://www.sueddeutsche.de/politik/venezuela-stromausfall-staudamm-1.4535951" target="_blank">Weiterlesen ↗</a>

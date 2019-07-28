@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Landtagswahl Sachsen: AfD erzielt Teilerfolg im Streit um Landesliste</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4540532/208x156" alt="Verhandlung über AfD-Liste zur Landtagswahl" data-portal-copyright="dpa" /><p>Der sächsische Verfassungsgerichtshof entscheidet, dass die Partei mit 30 statt nur 18 Kandidaten antreten darf. Eine endgültige Entscheidung steht aber noch aus. </p>
+ <a href="https://www.sueddeutsche.de/politik/afd-sachsen-urteil-1.4540524" target="_blank">Weiterlesen ↗</a>

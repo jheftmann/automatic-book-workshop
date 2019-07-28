@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Hitzewelle: 300 Kugeln Eis vom Bürgermeister</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4539586/208x156" alt="Sommerhitze - Geilenkirchen" data-portal-copyright="dpa" /><p>Mit 40,5 Grad Celsius hat das nordrhein-westfälische Geilenkirchen einen neuen deutschen Hitzerekord aufgestellt. Bürgermeister Georg Schmitz weiß, wie die Stadt sich abkühlt.</p>
+ <a href="https://www.sueddeutsche.de/panorama/geilenkirchen-hitze-1.4539439" target="_blank">Weiterlesen ↗</a>

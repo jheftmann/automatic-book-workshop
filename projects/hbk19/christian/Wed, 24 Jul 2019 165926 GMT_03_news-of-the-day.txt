@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Klimawandel: "Die von Menschen verursachte globale Erwärmung ist beispiellos"</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4538450/208x156" alt="Klimaschwankungen gab es auch schon früher" data-portal-copyright="dpa" /><p>Warme und kalte Zeiten gab es auf der Erde schon immer. Doch die heutige Erderwärmung unterscheidet sich heftig von allen vorherigen Schwankungen.</p>
+ <a href="https://www.sueddeutsche.de/wissen/klimakatastrophe-globale-erwaermung-1.4538193" target="_blank">Weiterlesen ↗</a>

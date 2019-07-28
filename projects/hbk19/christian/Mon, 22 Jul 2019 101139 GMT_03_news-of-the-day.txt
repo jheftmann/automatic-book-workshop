@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Chandrayaan 2: Indien unterwegs zum Mond</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4534877/208x156" alt="" data-portal-copyright="AFP" /><p>Der Start der indischen Raumfahrtmission zum Mond ist geglückt. Etwa ein Jahr lang soll ein Raumschiff den Erdtrabanten umkreisen.</p>
+ <a href="https://www.sueddeutsche.de/wissen/indien-mond-1.4534760" target="_blank">Weiterlesen ↗</a>

@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Biometrie und Gesichtserkennung: FaceApp ist noch unser geringstes Problem</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4534482/208x156" alt="US-Demokrat Schumer will FaceApp untersuchen lassen" data-portal-copyright="dpa" /><p>Die Panik um die beliebte App verfehlt das Ziel. Längst experimentieren Konzerne und Polizei mit gigantischen Datenbanken von Gesichtsfotos - ohne, dass die Fotografierten es wissen. Das Gesicht wird zum Peilsender, den man nicht loswerden kann.</p>
+ <a href="https://www.sueddeutsche.de/digital/faceapp-gesichtserkennung-biometrie-ueberwachung-1.4533368" target="_blank">Weiterlesen ↗</a>

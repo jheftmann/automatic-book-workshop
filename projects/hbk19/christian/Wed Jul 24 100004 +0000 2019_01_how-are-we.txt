@@ -1,0 +1,12 @@
+<h2 class="date">Wed Jul 24 10:00:04 +0000 2019</h2>
+<h6>Wie geht es uns?</h6>
+<h2 class="how-are-we">Hi!
+
+Heute sagen 66,7 % der Leser, dass es ihnen gut geht:
+😀😀😀😀😀😀😀
+🙁🙁🙁
+
+Die Stimmungen im Trend sind:
+😀 aufgeregt
+🙁 arm</h2>
+<a href="https://t.co/Ic02pnwcTl" target="_blank" class="pagebreak">Statistik ansehen ↗</a>

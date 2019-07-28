@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Fahrschulen: TÜV und Dekra bremsen E-Autos aus</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4533918/208x156" alt="Verordnung zeigt Platz für Fahrprüfer." data-portal-copyright="Illustration: SZ Grafik" /><p>Zu kleiner Fußraum, zu wenig "Kniefreiheit": Weil ihre Rückbank für den Prüfer zu eng ist, bekommen etliche Elektrofahrzeuge keine Zulassung für Führerscheinprüfungen.</p>
+ <a href="https://www.sueddeutsche.de/auto/elektroauto-fahrschule-tuev-dekra-1.4533468" target="_blank">Weiterlesen ↗</a>

@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Elektromobilität: Die Batterie als Blackbox</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4530825/208x156" alt="Audi e-tron" data-portal-copyright="AUDI AG" /><p>Die Kunden wissen nicht, welche Stromspeicher im Audi E-tron stecken. Zwei Zelltypen kommen zum Einsatz, die unterschiedliche Eigenschaften und Erfordernisse haben. Eine Wahl haben die Käufer nicht. </p>
+ <a href="https://www.sueddeutsche.de/auto/audi-etron-batterie-1.4526570" target="_blank">Weiterlesen ↗</a>

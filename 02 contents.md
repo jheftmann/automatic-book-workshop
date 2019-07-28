@@ -4,6 +4,7 @@
 2. Provocations
 2. Tools
 3. Set-up
+4. Considerations
 3. Appendix
 3. Impressum
 
@@ -64,66 +65,74 @@ Finally, you’ll need to download the project template. I’ve gotten the basic
 
 After your concept and design is ready, you’ll need to get set up to write some code. We’ll cover some best practices together in class. Once you’re ready to go:
 
-### 1—Create a website
+### &#10102; Create a website
 
 You will receive an invitation to a shared Dropbox folder. This folder is connected to Small Victories. Any files you put into this folder will sync to Dropbox and appear on your website (demo). The URL of your website will follow this structure: `jacobheftmann.com/automatic-book-workshop/projects/course/firstname` (I’ll post this in class).*
 
 *if you’re doing this on your own (not in a workshop) you can just make your own new Small Victories website (Feed) and use that instead. (And of course that’s the URL you’ll use.)
 
-### 2–Update settings
+### &#10103; Update settings
 
 In your project folder, there is a file called `_sv_settings.txt`. Update this with the name of your project and description. You’ll need at least the following:
-
 ```
 title:
 theme: feed
 description:
 ```
 
-### 3—Install Bindery.js
+### &#10104; Install Bindery.js
 
 [Download the template files](https://www.dropbox.com/s/xy186ad9hgqaji4/template.zip?dl=0) and unzip them. Put the contents of this folder into your project folder. When you refresh your website, it should look something [like this](https://sv-custom-themes.smvi.co/sv-bindery). You may also want to add some of your own content (or at least remove the deafult content). Other than Bindery, this works just like a normal SV site ([check the docs](https://docs.smallvictori.es/) if you have questions).
 
-### 4—Connect content
+### &#10105; Connect content
 
 Depending on your individual project, you’ll need to connect IFTTT or Zapier with your Dropbox project folder. You’ll use one of these services to automate the creation of the content that fills your book based on your own specific parameters. Test the integration to make sure that content is appearing in your project folder (and on your website) as expected.
 
 Anything in this folder will appear on your website, so stay organized!
 
-### 5—Configure Bindery
+### &#10106; Configure Bindery
 
 In your `_sv_custom.js` file, there is a function that runs `bindery.js`. You can customize this function to set specific margins, page sizes, etc. based on your individual design ([refer to the Bindery docs](https://evanbrooks.info/bindery/docs/#printsetup)).
 
-### 6—Design book
+### &#10107; Design book
 
 After your content and book are working to your satisfaction, open up your `_sv_custom.css` file to start designing your book.
+
+## Technical considerations
+
+Because we’re making both a book and a website at the same time, there are some special considerations to make:
+
+- Image size: we must balance page speed and print quality
+- Color: web colors are represented by hexademical values, and not all screen colors can be re-produced (or re-produced accurately) in print (and vice versa)
+- Paper color: we may want our page to have a certain background color on screens but will use the paper color itself in the printed version
+
+Consider techniques like progressive image loading, and `@print` and `@screen` media queries.
 
 <span class="page-break"></span>
 
 ## Appendix
 
-### Related reading
+
+#### Examples
 
 - John Caserta [website](http://johncaserta.com/) and [book](http://johncaserta.com/bindery.html)
 - [for / with / in](http://htmloutput.risd.gd/book/)
-- [Library of the Printed Web](https://printedweb.org/)
 - [Every Photo](https://bindery-demo.smvi.co/)
 
-### Projects
+#### Related reading
 
-HBKSaar 2019
+- [Library of the Printed Web](https://printedweb.org/)
 
-- [Jacob Heftmann](projects/hbk19/heftmann)
-- [Simon Feltes](projects/hbk19/simon)
-- [Matchima Toebkaya](projects/hbk19/matchi)
-- [Celine Felber](projects/hbk19/celine)
-- [Mirko Michelacci](projects/hbk19/mirko)
-- [Fiona Arenz](projects/hbk19/fiona)
-- [Emma Zerial](projects/hbk19/emma)
-- [Francesca Simonetti](projects/hbk19/francesca)
-- [Christian Dietz](projects/hbk19/christian)
-- [Hannah Dietel](projects/hbk19/hannah)
-- [Felix Bronko Noll](projects/hbk19/bronko)
+
+<img src="_assets/img/hbk19-01.jpeg">
+<p class="caption">Automatically create a flipbook by exporting the frames of a GIF as images. Simon Feltes, HBKSaar 2019</p>
+
+<img src="_assets/img/hbk19-02.jpeg">
+<p class="caption">Make a book of selfies by automatically importing all photos taken with the front camera. Felix Bronko Noll, HBKSaar 2019</p>
+
+<img src="_assets/img/hbk19-08.jpeg">
+<p class="caption">Collect the daily mood of Germany from Zeit Online. Christian Dietz, HBKSaar 2019</p>
+
 
 <span class="page-break"></span>
 

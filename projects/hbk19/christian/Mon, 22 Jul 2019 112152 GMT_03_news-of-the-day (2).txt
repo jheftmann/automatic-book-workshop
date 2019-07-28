@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Gesundheitspolitik: Wie Spahn die Notfallversorgung reformieren will</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4535020/208x156" alt="Reform der Notfallversorgung" data-portal-copyright="dpa" /><p>Die 112 soll faktisch mit der Nummer des ärztlichen Bereitschaftsdienstes zusammengelegt werden. Anrufer sollen aber künftig bei einer der "Gemeinsamen Notfallleitstellen" landen.</p>
+ <a href="https://www.sueddeutsche.de/politik/spahn-notruf-notfall-112-1.4535008" target="_blank">Weiterlesen ↗</a>

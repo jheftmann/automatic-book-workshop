@@ -1,0 +1,4 @@
+<h4 class="pagebreak">Topnews des Tages</h4> 
+<h3>Notfallversorgung: "Wenn ein Patient verletzt ist, geht er halt ins Krankenhaus"</h3>
+<img src="https://media-cdn.sueddeutsche.de/image/sz.1.4540453/208x156" alt="Notaufnahme am Uniklinikum Mainz" data-portal-copyright="picture alliance/dpa" /><p>Das Gesundheitsministerium hat einen Entwurf zur Reform der Notfallversorgung vorgelegt. Der Münchner Arzt Christoph Dodt begrüßt das. </p>
+ <a href="https://www.sueddeutsche.de/panorama/gesundheitspolitik-notfallversorgung-reform-1.4539274" target="_blank">Weiterlesen ↗</a>

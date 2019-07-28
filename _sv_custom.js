@@ -49,8 +49,8 @@ document.addEventListener('DOMContentLoaded', function() {
   Bindery.makeBook({
     content: '.sv-feed-inner', // #content – don't change
     pageSetup: {
-      size: { width: '148.5mm', height: '200mm' },
-      margin: { top: '48pt', inner: '18pt', outer: '24pt', bottom: '18pt' },
+      size: { width: '120mm', height: '230mm' },
+      margin: { top: '18mm', inner: '12mm', outer: '18mm', bottom: '12mm' },
     },
     printSetup: {
       layout: Bindery.Layout.BOOKLET,
